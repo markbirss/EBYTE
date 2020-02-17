@@ -41,6 +41,7 @@ http://www.ebyte.com/en/product-view-news.aspx?id=174
 
 https://makersportal.com/blog/2019/10/5/arduino-lora-network
 
+https://create.arduino.cc/projecthub/xreef/lora-e32-device-for-arduino-esp32-or-esp8266-library-728a86
 https://www.teachmemicro.com/e32-ttl-100-sx1278-lora-module/
 
 <b><h3>General code usage</b></h3> 
