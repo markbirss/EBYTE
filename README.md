@@ -39,6 +39,8 @@ http://www.ebyte.com/en/
 example module this library is intended to be used with
 http://www.ebyte.com/en/product-view-news.aspx?id=174
 
+https://makersportal.com/blog/2019/10/5/arduino-lora-network
+
 <b><h3>General code usage</b></h3> 
 1. Create a serial object
 2. Create EBYTE object that uses the serial object
